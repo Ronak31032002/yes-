@@ -1,0 +1,201 @@
+body {
+    background: cover;
+    overflow-x: hidden;
+}
+.music {
+    height: 600px;
+    width: 100%;
+    border: 1px solid black;
+    background-image: url(BG.jpg);
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 28px;
+    font-weight: 300;
+    color: white;
+}
+.music img {
+    height: 65px;
+    width: 490px;
+    margin-top: 90px;
+}
+.btn {
+    height: 40px;
+    width: 120px;
+    background-color: #0073D5;
+    border: none;
+    color: white;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.para {
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.para a {
+    text-decoration: none;
+    color: #1073C6;
+}
+.btn:hover {
+    border:2px solid #014782;
+}
+.block {
+    height: 400px;
+    width: 100%;
+}
+.contain {
+    height: 380px;
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+.left {
+    height: 350px;
+    width: 300px;
+    margin-left: 90px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+}
+.left img {
+    height: 90px;
+    width: 90px;
+    margin-top: 30px;
+}
+.para3 {
+    margin-top: 16px;
+}
+.para2 {
+    font-size: 16px;
+    line-height: 1.5;
+    color: dimgrey;
+    margin-top:-30px;
+}
+.center {
+    height: 350px;
+    width: 320px;
+    display: inline-block;
+    float: inherit;
+    margin-left: 425px;
+    margin-top: -353px;  
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    text-align: center;
+}
+.center img {
+    height: 90px;
+    width: 90px;
+    margin-top: 30px;
+}
+.right {
+    height: 350px;
+    width: 320px;
+    display: inline-block;
+    float: right;
+    margin-right:90px;
+    margin-top: -353px;
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    text-align: center;
+}
+.right img {
+    height: 90px;
+    width: 90px;
+    margin-top: 30px;
+}
+.device {
+    height: 530px;
+    width: 100%;
+    border:0.1px solid white;
+    opacity: 0.2px;
+    background-image: url(ytr_lp_story1_musicnewservice_desktop_1440x810.jpg);
+    background-size: cover;
+    background-position: top;
+    font-family: sans-serif;
+    font-size: 26px;
+    font-weight: 300;
+    margin-top: -50px;
+}
+.para4 {
+    font-size: 48px;
+    line-height: 1.06;
+    font-weight: 300;
+    opacity: 0.8;
+    font-family: sans-serif;
+    margin-top: 180px;
+    margin-left: 140px;
+}
+.para5 {
+    margin-left: 140px;
+    margin-top: -15px;
+    opacity: 0.9;
+}
+.bgpic {
+    height: 550px;
+    width: 100%;
+    border:0.1px solid;
+    background-image: url(ytr_lp2_262624_story2_desktop_1440x810.jpg);
+    color: white;
+}
+.bgpic p {
+    margin-left: 700px;
+    font-weight: 200;
+}
+.para6 {
+    opacity: 0.64;
+    font-family: sans-serif;
+    font-size: 22px;
+}
+.trend {
+    height: 550px;
+    width: 100%;
+    border:0.1px solid white;
+    font-family: sans-serif;
+    font-size: 26px;
+    font-weight: 300;
+    background-image: url(image.jpg);
+    background-size: 110%;
+}
+.premium {
+    height: 550px;
+    width: 100%;
+    border: 1px solid black;
+    border:0.1px solid white;
+    font-family: sans-serif;
+    font-size: 26px;
+    font-weight: 300;
+    background-image: url(myimage.jpg);
+    background-size: 100%;
+    color: white;
+}
+.premium p {
+    margin-left: 650px;
+}
+.para7 {
+    opacity: 0.5;
+    margin-top: -20px;
+    font-size: 22px;
+}
+.footer {
+    height: 120px;
+    width: 100%;
+    border: 1px solid white;
+    text-align: center;
+}
+.footer p {
+    margin-top: 40px;
+    margin-left: -230px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.footer a{
+    text-decoration: none;
+    color: #0B68B5;
+}
+
+
